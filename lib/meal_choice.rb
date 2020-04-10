@@ -1,6 +1,3 @@
-# Your code here
-# For output purposes, use "puts" instead of "print" or "p"
-
 #Define a method with 2 required parameters
 #& 1 optional parameter
 #print 1 string  #print & return 1 string
